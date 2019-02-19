@@ -1,0 +1,3 @@
+rootProject.name = 'ReactCampus3'
+
+include ':app'
